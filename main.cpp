@@ -82,6 +82,4 @@ int main() {
     }
 
     cout << calcDeterminant(y) << endl;
-
-    system("pause");
 }
